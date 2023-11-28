@@ -1,8 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="" width="30px"/>, I am Ajit Dhdharia!
 ---
-I am a software Developer, I completed my post-graduation in Application Development from Cegep De La Gaspesie (Montreal) in Dec 2020.
-
-I started my journey as a web developer at Inkpencil Pvt Ltd. and also obtained skills by developing various android applications throughout my post-graduation. I   got an opportunity to deepen my knowledge in web development through Angela Yu's Web Development Bootcamp, FreeCodeCamp Resources, and by building personal projects.
 
 ---
 
