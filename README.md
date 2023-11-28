@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Toronto Hydro](https://www.torontohydro.com/)
 
-- 🌱 I’m currently learning **GraphQl, CI/CD**
+- 🌱 I’m currently learning **Typescript, GraphQl, CI/CD**
 
 - 👨‍💻 All of my projects are available at [https://6564e284c8ac3010c4e62218--stellar-biscotti-4d54c9.netlify.app/](https://6564e284c8ac3010c4e62218--stellar-biscotti-4d54c9.netlify.app/)
 
