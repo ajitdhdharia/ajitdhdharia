@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript, GraphQl, CI/CD**
 
-- 👨‍💻 All of my projects are available at [https://stellar-biscotti-4d54c9.netlify.app/](https://stellar-biscotti-4d54c9.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ajitdhdharia.netlify.app/](https://ajitdhdharia.netlify.app/)
 
 - 📫 How to reach me **dhdhariaajit@gmail.com**
 
