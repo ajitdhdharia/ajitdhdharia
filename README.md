@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **dhdhariaajit@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1INCf-NYeR6un6lay9LTeqYbflyLcIG0yolUJzfx9Vfg/edit?usp=sharing](https://docs.google.com/document/d/1INCf-NYeR6un6lay9LTeqYbflyLcIG0yolUJzfx9Vfg/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
