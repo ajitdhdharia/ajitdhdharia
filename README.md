@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajitdhdharia" alt="ajitdhdharia" /></a> </p>
 
-- 🔭 I’m currently working on [Toronto Hydro](https://www.torontohydro.com/)
+- 🔭 I’m currently working on [SnapNews.ai]([https://www.torontohydro.com/](https://snapnews.ai/))
 
-- 🌱 I’m currently learning **Typescript, GraphQl, CI/CD**
+- 🌱 I’m currently learning **Typescript, Python, Django**
 
 - 👨‍💻 All of my projects are available at [https://ajitdhdharia.netlify.app/](https://ajitdhdharia.netlify.app/)
 
