@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajitdhdharia" alt="ajitdhdharia" /></a> </p>
 
-- 🔭 I’m currently working on [SnapNews.ai]([https://www.torontohydro.com/](https://snapnews.ai/))
+- 🔭 I’m currently working on [SnapNews.ai]([https://snapnews.ai/])
 
 - 🌱 I’m currently learning **Typescript, Python, Django**
 
